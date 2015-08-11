@@ -1,0 +1,13 @@
+ec2-54-90-190-117.compute-1.amazonaws.com - router1 internal
+ec2-54-205-175-47.compute-1.amazonaws.com - router2 internal
+ec2-54-90-236-118.compute-1.amazonaws.com - router3 internal
+
+ec2-54-242-150-47.compute-1.amazonaws.com - router1 external
+ec2-54-80-138-212.compute-1.amazonaws.com - rotuer2 external
+ec2-54-91-249-146.compute-1.amazonaws.com - router3 external
+
+ec2-54-82-201-53.compute-1.amazonaws.com - manager
+
+ec2-54-221-194-18.compute-1.amazonaws.com - supervisor1 us-east-1d
+ec2-23-23-93-12.compute-1.amazonaws.com - supervisor2 us-east-1d
+ec2-54-197-244-32.compute-1.amazonaws.com - supervisor3 us-east-1d
